@@ -1,0 +1,37 @@
+:root {
+  --primary-color: #02073e;
+  --secondary-color: #0f2137;
+  --dark-secondary-color: #ffffff;;
+  --tertiary-color: #00A9FF;
+  --light-tertiary-color: #00A9FF;
+  --text-color: #343d48;
+  --background-nav: #00A9FF;
+  --background-header: #e8e8e8;
+  --p-header: #ffffff;
+  --navbar-a: #000000;
+  --background-body: #89CFF3;
+  --skills-h3: #02073e;
+  --a-projetos: #000000;
+
+  --font-family: 'DM Sans', sans-serif;
+
+}
+
+.dark-mode:root {
+  --primary-color: #ffffff;
+  --secondary-color: #ffffff;
+  --dark-secondary-color: #5C5470;
+  --tertiary-color: #5C5470;
+  --light-tertiary-color: #352F44;
+  --text-color: #343d48;
+  --background-nav: #352F44;
+  --background-header: #e8e8e8;
+  --p-header: #ffffff;
+  --navbar-a: #ffffff;
+  --background-body: #2A2438;
+  --skills-h3: #DBD8E3;
+  --a-projetos: #ffffff;
+
+  --font-family: 'DM Sans', sans-serif;
+
+}
