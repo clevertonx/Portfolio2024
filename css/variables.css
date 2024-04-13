@@ -1,15 +1,15 @@
 :root {
-  --primary-color: #02073e;
-  --secondary-color: #0f2137;
-  --dark-secondary-color: #ffffff;;
-  --tertiary-color: #00A9FF;
-  --light-tertiary-color: #00A9FF;
+  --primary-color: #000000;
+  --secondary-color: #000000;
+  --dark-secondary-color: #F2BED1;;
+  --tertiary-color: #F2BED1;
+  --light-tertiary-color: #FDCEDF;
   --text-color: #343d48;
-  --background-nav: #00A9FF;
+  --background-nav: #F2BED1;
   --background-header: #e8e8e8;
-  --p-header: #ffffff;
+  --p-header: #000000;
   --navbar-a: #000000;
-  --background-body: #89CFF3;
+  --background-body: #F9F5F6;
   --skills-h3: #02073e;
   --a-projetos: #000000;
 
