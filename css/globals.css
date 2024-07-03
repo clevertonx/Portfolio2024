@@ -29,13 +29,13 @@ a {
 h1 {
   font-size: 6.4rem;
   font-weight: 700;
-  color: var(--primary-color);
+  color: var(--secondary-color);
 }
 
 .secondary-title {
   font-size: 4rem;
   font-weight: 700;
-  color: var(--primary-color);
+  color: var(--secondary-color);
 }
 
 .tertiary-title {

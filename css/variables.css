@@ -1,17 +1,18 @@
 :root {
-  --primary-color: #000000;
+  --primary-color: #ffffff;
   --secondary-color: #000000;
-  --dark-secondary-color: #F2BED1;;
-  --tertiary-color: #F2BED1;
-  --light-tertiary-color: #FDCEDF;
+  --dark-secondary-color: #007F73;
+  --tertiary-color: #007F73;
+  --light-tertiary-color: #d5fdf9;
   --text-color: #343d48;
-  --background-nav: #F2BED1;
+  --background-nav: #007F73;
   --background-header: #e8e8e8;
   --p-header: #000000;
-  --navbar-a: #000000;
+  --navbar-a: #ffffff;
   --background-body: #F9F5F6;
   --skills-h3: #02073e;
   --a-projetos: #000000;
+  --icons: #007F73;
 
   --font-family: 'DM Sans', sans-serif;
 
@@ -31,6 +32,7 @@
   --background-body: #2A2438;
   --skills-h3: #DBD8E3;
   --a-projetos: #ffffff;
+  --icons: #ffffff;
 
   --font-family: 'DM Sans', sans-serif;
 

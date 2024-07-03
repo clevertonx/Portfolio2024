@@ -27,12 +27,9 @@
   padding: 1rem;
 }
 
-.about .about__left ul li a img {
-  width: 4rem;
-  height: 4rem;
-}
 
-.about .about__left ul li a img:hover {
+
+.about .about__left ul li a i:hover {
   transform: scale(1.2);
   transition: transform 0.3s ease;
 }
